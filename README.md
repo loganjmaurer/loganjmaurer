@@ -1,4 +1,6 @@
 Thank you for visiting my GitHub page. Here you will find statistical and machine learning projects on various kinds of data. Most of it is very much a work in progress. So far, I have worked in R, Python and Julia. I suggest you start with my Markov model of the Bible or my regression analysis of a world happiness survey from Gallup. Right now, I am working on the survival analysis of marathon times and training a neural net on chess game data. I am hoping to add some price forecasting soon and play around in Rust and Haskell. 
+
+In addition to my programming work, I am developing a writing sample. Currently, I am reviewing some books by social scientists with somewhat cynical ideas.
 <!--
 **loganjmaurer/loganjmaurer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
